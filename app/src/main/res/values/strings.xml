@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">crudXeovani</string>
+    <string name="buscar_personal">Buscar Personal</string>
+    <string name="nombre">Nombre</string>
+    <string name="edad">Edad</string>
+    <string name="calle">Calle</string>
+    <string name="no_exterior">No Exterior</string>
+    <string name="no_Interior">No Interior</string>
+    <string name="Colonia">Colonia</string>
+    <string name="entidad">Entidad</string>
+    <string name="alcaldia_mpio">Alcaldia/Mpio</string>
+    <string name="guardar">Guardar</string>
+    <string name="borrar">Borrar</string>
+
+</resources>
